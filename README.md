@@ -1,2 +1,2 @@
 # var_intro_proj
-I use sentiment analysis to try to determine the effect of the introduction of VAR in the EPL on fan's enjoyment of football
+In this project, I use NLTK's VADER to extract sentiment from football fans' tweets captured using twarc and Twitter's API. I then do some analysis and simple visualization of the results.
